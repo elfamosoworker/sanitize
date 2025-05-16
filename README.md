@@ -8,8 +8,4 @@ Un petit script Python pour **"sanitizer"** rapidement une URL en remplaçant le
 - Il te demande une URL (ex: `http://example.com`)
 - Il la transforme automatiquement (→ `http://example[.]com`)
 - Et la copie dans le presse-papier 📋
-
-### Exemple :
-
-```bash
-url : google.com
+- Il te reste plus qu'à la mettre comme IOC.
